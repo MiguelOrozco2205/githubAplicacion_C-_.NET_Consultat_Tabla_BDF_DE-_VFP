@@ -1,4 +1,4 @@
-# githubAplicacion_C#_.NET_Consultat_Tabla_BDF_DE_VFP
+# githubAplicacion_C#_.NET_Consultat_Tabla_BDF_DE_VFP_OLEBD
 
 Consultar una Tabla  de VFP_OLBD  Y Generando un Archivo JSON  EN C# .NET
 
