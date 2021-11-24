@@ -1,0 +1,338 @@
+[[
+  {
+    "tgt_cve": "101OPERATIVOS                 ",
+    "tgt_desc": "Sueldos y  Salarios                               ",
+    "rgd_tipo": "Estructura Operativos         ",
+    "rgd_clave": "101OPERATIVOS                 ",
+    "rgd_desc": "Sueldos y  Salarios"
+  },
+  {
+    "tgt_cve": "110OPERATIVOS                 ",
+    "tgt_desc": "Alimentacion y agua  al personal                  ",
+    "rgd_tipo": "Estructura Operativos         ",
+    "rgd_clave": "110OPERATIVOS                 ",
+    "rgd_desc": "Alimentacion y agua  al personal"
+  },
+  {
+    "tgt_cve": "201OPERATIVOS                 ",
+    "tgt_desc": "Articulos de Aseo y Limpieza                      ",
+    "rgd_tipo": "Estructura Operativos         ",
+    "rgd_clave": "201OPERATIVOS                 ",
+    "rgd_desc": "Articulos de Aseo y Limpieza"
+  },
+  {
+    "tgt_cve": "202OPERATIVOS                 ",
+    "tgt_desc": "Casetas y Peajes                                  ",
+    "rgd_tipo": "Estructura Operativos         ",
+    "rgd_clave": "202OPERATIVOS                 ",
+    "rgd_desc": "Casetas y Peajes"
+  },
+  {
+    "tgt_cve": "204OPERATIVOS                 ",
+    "tgt_desc": "Mantenimiento Maquinaria, Equipo y Edificios      ",
+    "rgd_tipo": "Estructura Operativos         ",
+    "rgd_clave": "204OPERATIVOS                 ",
+    "rgd_desc": "Mantenimiento Maquinaria, Equipo y Edificios"
+  },
+  {
+    "tgt_cve": "205OPERATIVOS                 ",
+    "tgt_desc": "Herramientas                                      ",
+    "rgd_tipo": "Estructura Operativos         ",
+    "rgd_clave": "205OPERATIVOS                 ",
+    "rgd_desc": "Herramientas"
+  },
+  {
+    "tgt_cve": "209OPERATIVOS                 ",
+    "tgt_desc": "Vestuario y Eqpo de Trabajo                       ",
+    "rgd_tipo": "Estructura Operativos         ",
+    "rgd_clave": "209OPERATIVOS                 ",
+    "rgd_desc": "Vestuario y Eqpo de Trabajo"
+  },
+  {
+    "tgt_cve": "210OPERATIVOS                 ",
+    "tgt_desc": "Mantenimiento Preventivo de Maquinaria y Equipo   ",
+    "rgd_tipo": "Estructura Operativos         ",
+    "rgd_clave": "210OPERATIVOS                 ",
+    "rgd_desc": "Mantenimiento Preventivo de Maquinaria y Equipo"
+  },
+  {
+    "tgt_cve": "305OPERATIVOS                 ",
+    "tgt_desc": "Fletes y Acarreos                                 ",
+    "rgd_tipo": "Estructura Operativos         ",
+    "rgd_clave": "305OPERATIVOS                 ",
+    "rgd_desc": "Fletes y Acarreos"
+  },
+  {
+    "tgt_cve": "309OPERATIVOS                 ",
+    "tgt_desc": "Hospedaje Operativo                               ",
+    "rgd_tipo": "Estructura Operativos         ",
+    "rgd_clave": "309OPERATIVOS                 ",
+    "rgd_desc": "Hospedaje"
+  },
+  {
+    "tgt_cve": "313OPERATIVOS                 ",
+    "tgt_desc": "Pasaje Terrestre y Aereo Operativo                ",
+    "rgd_tipo": "Estructura Operativos         ",
+    "rgd_clave": "313OPERATIVOS                 ",
+    "rgd_desc": "Pasaje Terrestre y Aereo"
+  },
+  {
+    "tgt_cve": "317OPERATIVOS                 ",
+    "tgt_desc": "Telefonos moviles y fijos Operativos              ",
+    "rgd_tipo": "Estructura Operativos         ",
+    "rgd_clave": "317OPERATIVOS                 ",
+    "rgd_desc": "Telefonos moviles y fijos"
+  },
+  {
+    "tgt_cve": "319OPERATIVOS                 ",
+    "tgt_desc": "Renta de Vehículos                                ",
+    "rgd_tipo": "Estructura Operativos         ",
+    "rgd_clave": "319OPERATIVOS                 ",
+    "rgd_desc": "Renta de Vehículos"
+  },
+  {
+    "tgt_cve": "409OPERATIVOS                 ",
+    "tgt_desc": "Comisiones por Servicios                          ",
+    "rgd_tipo": "Estructura Operativos         ",
+    "rgd_clave": "409OPERATIVOS                 ",
+    "rgd_desc": "Comisiones por Servicios"
+  },
+  {
+    "tgt_cve": "105ADMINISTRA                 ",
+    "tgt_desc": "Beneficio y bonos al personal                     ",
+    "rgd_tipo": "Estructura Administrativos    ",
+    "rgd_clave": "105ADMINISTRA                 ",
+    "rgd_desc": "Beneficio y bonos al personal"
+  },
+  {
+    "tgt_cve": "110ADMINISTRA                 ",
+    "tgt_desc": "Alimentacion y agua  al personal                  ",
+    "rgd_tipo": "Estructura Administrativos    ",
+    "rgd_clave": "110ADMINISTRA                 ",
+    "rgd_desc": "Alimentacion y agua  al personal"
+  },
+  {
+    "tgt_cve": "112ADMINISTRA                 ",
+    "tgt_desc": "Capacitación y Adiestramiento al Personal         ",
+    "rgd_tipo": "Estructura Administrativos    ",
+    "rgd_clave": "112ADMINISTRA                 ",
+    "rgd_desc": "Capacitación y Adiestramiento al Personal"
+  },
+  {
+    "tgt_cve": "114ADMINISTRA                 ",
+    "tgt_desc": "Honorarios Sin Retención                          ",
+    "rgd_tipo": "Estructura Administrativos    ",
+    "rgd_clave": "114ADMINISTRA                 ",
+    "rgd_desc": "Honorarios Sin Retención"
+  },
+  {
+    "tgt_cve": "201ADMINISTRA                 ",
+    "tgt_desc": "Articulos de Aseo y Limpieza                      ",
+    "rgd_tipo": "Estructura Administrativos    ",
+    "rgd_clave": "201ADMINISTRA                 ",
+    "rgd_desc": "Articulos de Aseo y Limpieza"
+  },
+  {
+    "tgt_cve": "202ADMINISTRA                 ",
+    "tgt_desc": "Casetas y Peajes                                  ",
+    "rgd_tipo": "Estructura Administrativos    ",
+    "rgd_clave": "202ADMINISTRA                 ",
+    "rgd_desc": "Casetas y Peajes"
+  },
+  {
+    "tgt_cve": "211ADMINISTRA                 ",
+    "tgt_desc": "Mantenimiento de Oficina                          ",
+    "rgd_tipo": "Estructura Administrativos    ",
+    "rgd_clave": "211ADMINISTRA                 ",
+    "rgd_desc": "Mantenimiento de Oficina"
+  },
+  {
+    "tgt_cve": "304ADMINISTRA                 ",
+    "tgt_desc": "Servicios Públicos                                ",
+    "rgd_tipo": "Estructura Administrativos    ",
+    "rgd_clave": "304ADMINISTRA                 ",
+    "rgd_desc": "Servicios Públicos"
+  },
+  {
+    "tgt_cve": "307ADMINISTRA                 ",
+    "tgt_desc": "Gastos de representacion y atencion a clientes    ",
+    "rgd_tipo": "Estructura Administrativos    ",
+    "rgd_clave": "307ADMINISTRA                 ",
+    "rgd_desc": "Gastos de representacion y atencion a clientes    "
+  },
+  {
+    "tgt_cve": "309ADMINISTRA                 ",
+    "tgt_desc": "Hospedaje Administrativo                          ",
+    "rgd_tipo": "Estructura Administrativos    ",
+    "rgd_clave": "309ADMINISTRA                 ",
+    "rgd_desc": "Hospedaje"
+  },
+  {
+    "tgt_cve": "311ADMINISTRA                 ",
+    "tgt_desc": "Mensajeria y Paqueteria                           ",
+    "rgd_tipo": "Estructura Administrativos    ",
+    "rgd_clave": "311ADMINISTRA                 ",
+    "rgd_desc": "Mensajeria y Paqueteria"
+  },
+  {
+    "tgt_cve": "313ADMINISTRA                 ",
+    "tgt_desc": "Pasaje Terrestre y Aereo Administrativo           ",
+    "rgd_tipo": "Estructura Administrativos    ",
+    "rgd_clave": "313ADMINISTRA                 ",
+    "rgd_desc": "Pasaje Terrestre y Aereo"
+  },
+  {
+    "tgt_cve": "316ADMINISTRA                 ",
+    "tgt_desc": "Seguros y Fianzas                                 ",
+    "rgd_tipo": "Estructura Administrativos    ",
+    "rgd_clave": "316ADMINISTRA                 ",
+    "rgd_desc": "Seguros y Fianzas"
+  },
+  {
+    "tgt_cve": "317ADMINISTRA                 ",
+    "tgt_desc": "Telefonos moviles y fijos Administrativo          ",
+    "rgd_tipo": "Estructura Administrativos    ",
+    "rgd_clave": "317ADMINISTRA                 ",
+    "rgd_desc": "Telefonos moviles y fijos"
+  },
+  {
+    "tgt_cve": "318ADMINISTRA                 ",
+    "tgt_desc": "Renta de Inmuebles                                ",
+    "rgd_tipo": "Estructura Administrativos    ",
+    "rgd_clave": "318ADMINISTRA                 ",
+    "rgd_desc": "Renta de Inmuebles"
+  },
+  {
+    "tgt_cve": "401ADMINISTRA                 ",
+    "tgt_desc": "Multas y recargos                                 ",
+    "rgd_tipo": "Estructura Administrativos    ",
+    "rgd_clave": "401ADMINISTRA                 ",
+    "rgd_desc": "Multas y recargos"
+  },
+  {
+    "tgt_cve": "404ADMINISTRA                 ",
+    "tgt_desc": "Impuestos Estatales                               ",
+    "rgd_tipo": "Estructura Administrativos    ",
+    "rgd_clave": "404ADMINISTRA                 ",
+    "rgd_desc": "Impuestos Estatales"
+  },
+  {
+    "tgt_cve": "MATERIALES                    ",
+    "tgt_desc": "materiales                                        ",
+    "rgd_tipo": "Material                      ",
+    "rgd_clave": "MATERIALES                    ",
+    "rgd_desc": "materiales"
+  },
+  {
+    "tgt_cve": "EQUIPO DE SEGURIDAD           ",
+    "tgt_desc": "Equipo de seguridad                               ",
+    "rgd_tipo": "Auxiliar                      ",
+    "rgd_clave": "EQUIPO DE SEGURIDAD           ",
+    "rgd_desc": "Equipo de seguridad"
+  },
+  {
+    "tgt_cve": "MANIOBRAS DESCARGA            ",
+    "tgt_desc": "maniobras de carga y descarga                     ",
+    "rgd_tipo": "Auxiliar                      ",
+    "rgd_clave": "MANIOBRAS DESCARGA            ",
+    "rgd_desc": "maniobras de carga y descarga"
+  },
+  {
+    "tgt_cve": "BOTA INDUSTRIAL               ",
+    "tgt_desc": "BOTA INDUSTRIAL CON CASQUILLO                     ",
+    "rgd_tipo": "Auxiliar                      ",
+    "rgd_clave": "BOTA INDUSTRIAL               ",
+    "rgd_desc": "BOTA INDUSTRIAL CON CASQUILLO"
+  },
+  {
+    "tgt_cve": "AGUA                          ",
+    "tgt_desc": "AGUA PARA CORTE Y LAVADO DE PISO                  ",
+    "rgd_tipo": "Auxiliar                      ",
+    "rgd_clave": "AGUA                          ",
+    "rgd_desc": "AGUA PARA CORTE Y LAVADO DE PISO"
+  },
+  {
+    "tgt_cve": "RENTA DE MAQUINARIA           ",
+    "tgt_desc": "Renta de maquinaria                               ",
+    "rgd_tipo": "Auxiliar                      ",
+    "rgd_clave": "RENTA DE MAQUINARIA           ",
+    "rgd_desc": "renta de maquinaria"
+  },
+  {
+    "tgt_cve": "COMBTRAN3                     ",
+    "tgt_desc": "COMBUSTIBLE TRANSPORTE                            ",
+    "rgd_tipo": "Estructura Operativos         ",
+    "rgd_clave": "203OPERATIVOS                 ",
+    "rgd_desc": "Combustible exclusivo vehículos"
+  },
+  {
+    "tgt_cve": "COMB MAQ                      ",
+    "tgt_desc": "COMBUSTIBLE MAQUINAS                              ",
+    "rgd_tipo": "Material                      ",
+    "rgd_clave": "COMB MAQ                      ",
+    "rgd_desc": "Combustible exclusivo maquinaria"
+  },
+  {
+    "tgt_cve": "208OPERATIVOS                 ",
+    "tgt_desc": "papeleria y articulos p/ofocina                   ",
+    "rgd_tipo": "Estructura Operativos         ",
+    "rgd_clave": "208OPERATIVOS                 ",
+    "rgd_desc": "papeleria y articulos p/ofocina"
+  },
+  {
+    "tgt_cve": "GARRAF20                      ",
+    "tgt_desc": "Garrafon rojo # 20                                ",
+    "rgd_tipo": "Material                      ",
+    "rgd_clave": "GARRAF20                      ",
+    "rgd_desc": "Garrafon rojo # 20"
+  },
+  {
+    "tgt_cve": "CONAG1000                     ",
+    "tgt_desc": "Contenedor de Agua de 1,000 litros                ",
+    "rgd_tipo": "Material                      ",
+    "rgd_clave": "CONAG1000                     ",
+    "rgd_desc": "Contenedor de Agua de 1,000 litros"
+  },
+  {
+    "tgt_cve": "EXAMEN MEDICO                 ",
+    "tgt_desc": "EXAMEN MEDICO                                     ",
+    "rgd_tipo": "Auxiliar                      ",
+    "rgd_clave": "EXAMEN MEDICO                 ",
+    "rgd_desc": "EXAMEN MEDICO"
+  },
+  {
+    "tgt_cve": "PIPAAGUA                      ",
+    "tgt_desc": "Pipa de agua                                      ",
+    "rgd_tipo": "Auxiliar                      ",
+    "rgd_clave": "PIPAAGUA                      ",
+    "rgd_desc": "Pipa de agua "
+  },
+  {
+    "tgt_cve": "TRABLIMPIEZ                   ",
+    "tgt_desc": "trabajos de limpieza                              ",
+    "rgd_tipo": "Auxiliar                      ",
+    "rgd_clave": "TRABLIMPIEZ                   ",
+    "rgd_desc": "trabajos de limpieza"
+  },
+  {
+    "tgt_cve": "LONAVINIL                     ",
+    "tgt_desc": "Lona de Vinil Impreso                             ",
+    "rgd_tipo": "Material                      ",
+    "rgd_clave": "LONAVINIL                     ",
+    "rgd_desc": "Lona de Vinil Impreso"
+  },
+  {
+    "tgt_cve": "SEÑALETICA                    ",
+    "tgt_desc": "Señaletica de Vinil                               ",
+    "rgd_tipo": "Material                      ",
+    "rgd_clave": "SEÑALETICA                    ",
+    "rgd_desc": "Señaletica de Vinil"
+  },
+  {
+    "tgt_cve": "VIGILANCIA                    ",
+    "tgt_desc": "PAGO POR MANTENIMIENTO DE VIGILANCIA              ",
+    "rgd_tipo": "Auxiliar                      ",
+    "rgd_clave": "VIGILANCIA                    ",
+    "rgd_desc": "PAGO POR MANTENIMIENTO DE VIGILANCIA "
+  }
+]]
